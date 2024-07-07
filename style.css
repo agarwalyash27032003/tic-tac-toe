@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #bcc5b8;
+}
+
+#ttt-design{
+    height: 50vmin;
+    width: 50vmin;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px 10px;
+    margin: auto;
+    display: none;
+    justify-content: center;
+}
+
+.box{
+    width: 15vmin;
+    height: 15vmin;
+    background-color: #274625;
+    border: none;
+    color: white;
+    font-size: 40px;
+    border-radius: 15px;
+}
+
+h1{
+    text-align: center;
+    margin-top:50px;
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-size: 60px;
+    font-style: normal;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: "Dancing Script", cursive;
+    font-weight: 600;
+    font-size: 35px;
+    font-style: normal;
+}
+
+#reload{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: white;
+    background-color: #274625;
+    border-radius: 5px;
+    font-family: "Anton SC", sans-serif;
+}
